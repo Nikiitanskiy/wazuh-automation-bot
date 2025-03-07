@@ -16,7 +16,7 @@ This repository contains a Wazuh automation project that includes a Telegram bot
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nikiitanskiy/wazuh-automation-bot.git
-   cd wazuh-automation
+   cd wazuh-automation-bot
    ```
 2. Install dependencies:
    ```bash
